@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7ddf34-34ef-463f-aa93-a793b1f6ecc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticeLab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeLab11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeLab12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeLab13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeLab14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceLab10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeLab9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLab1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2y11xvVV7NGxfTK6CVw1UTjwMoa" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.customizations",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,10 +75,15 @@
       <option name="presentableId" value="Default" />
       <updated>1748987515865</updated>
       <workItem from="1748987517017" duration="5859000" />
+      <workItem from="1749153825546" duration="7961000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
